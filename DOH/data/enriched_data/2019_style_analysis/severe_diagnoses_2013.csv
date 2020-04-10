@@ -1,0 +1,162 @@
+apr_drg_description,diagnosis,count
+Septicemia & disseminated infections,Infection,423
+Chronic obstructive pulmonary disease,Respiratory,168
+RENAL FAILURE,Other,159
+Heart failure,Cardiology,121
+Other pneumonia,Respiratory,96
+Cardiac arrhythmia & conduction disorders,Other,59
+Acute myocardial infarction,Cardiology,58
+Major small & large bowel procedures,Other,55
+Respiratory Failure,Respiratory,33
+Infectious & parasitic diseases including HIV w O.R. procedure,Infection,32
+Electrolyte disorders except hypovolemia related,Other,32
+Other & unspecified gastrointestinal hemorrhage,Other,30
+Major respiratory infections & inflammations,Infection,30
+"Other gastroenteritis, nausa & vomiting",Infection,27
+Peptic ulcer & gastritis,Other,25
+Vaginal delivery,Other,25
+Intestinal obstruction,Other,24
+Diabetes,Diabetes,24
+Cellulitis & other skin infections,Other,22
+Pulmonary embolism,Respiratory,22
+Other anemia & disorders of blood & blood-forming organs,Circulatory,21
+Peripheral & other vascular disorders,Circulatory,20
+"Malfunction, reaction, complic of genitourinary device or proc",Other,19
+Major gastrointestinal & peritoneal infections,Infection,19
+Diverticulitis & diverticulosis,Infection,18
+Hip and femur fracture repair,Other,18
+Poisoning of medicinal agents,Other,17
+"Post-operative, post-traumatic, other device infections",Infection,17
+Gastrointestinal vascular insufficiency,Circulatory,14
+"Other respiratory diagnoses except signs, symptoms & minor diagnoses",Respiratory,14
+Laparoscopic cholecystectomy,Other,14
+Cesarean delivery,Other,14
+"Perm cardiac pacemaker implant w/o AMI, heart failure or shock",Cardiology,13
+Hypovolemia & related electrolyte disorders,Other,13
+Nontraumatic stupor & coma,Neurological,13
+Syncope & collapse,Cardiology,13
+Kidney & urinary tract infections,Infection,12
+"Signs, symptoms & other factors influencing health status",Other,12
+Other endocrine disorders,Other,12
+Hepatic coma & other major acute liver disorders,Other,11
+"Other kidney & urinary tract diagnoses, signs & symptoms",Other,11
+Major hematologic/immunologic diag exc sickle cell crisis & coagul,Circulatory,11
+Other digestive system diagnoses,Other,10
+Respiratory malignancy,Cancer,10
+Other small & large bowel procedures,Other,10
+CVA & precerebral occlusion w infarct,Circulatory,9
+Alcohol abuse & dependence,Drug Issue,9
+Respiratory system diagnosis w ventilator support 96+ hours,Respiratory,8
+Other disorders of the liver,Other,8
+Other complications of treatment,Other,8
+Disorders of pancreas except malignancy,Other,8
+"Neonate birthwt >2499g, normal newborn or neonate w other problem",Other,8
+OTHER VASCULAR PROCEDURES,Other,8
+Toxic effects of non-medicinal substances,Other,8
+Tracheostomy w MV 96+ hours w/o extensive procedure,Other,8
+"Contusion, open wound & other trauma to skin & subcutaneous tissue",Other,7
+"Malfunction,reaction,complication of cardiac/vasc device or procedure",Cardiology,7
+Major esophageal disorders,Other,7
+Moderately extensive procedure unrelated to principal diagnosis,Other,7
+O.R. procedure for other complications of treatment,Other,7
+Cholecystectomy except laparoscopic,Other,6
+Major depressive disorders & other/unspecified psychoses,Metal Health,6
+Disorders of gallbladder & biliary tract,Other,6
+Knee joint replacement,Other,6
+Alcoholic liver disease,Drug Issue,6
+Inflammatory bowel disease,Other,6
+Hip joint replacement,Other,6
+Nonextensive procedure unrelated to principal diagnosis,Other,6
+Major abdominal vascular procedures,Circulatory,5
+Cardiac catheterization for coronary artery disease,Cardiology,5
+Foot & toe procedures,Other,5
+"Malfunction, reaction, complic of orthopedic device or procedure",Other,5
+Percutaneous coronary intervention w AMI,Cardiology,5
+Seizure,Neurological,4
+Postpartum & post abortion diagnoses w/o procedure,Other,4
+Extensive procedure unrelated to principal diagnosis,Other,4
+Female reproductive system malignancy,Cancer,4
+Malignant breast disorders,Cancer,4
+Malignancy of hepatobiliary system & pancreas,Cancer,4
+Male reproductive system diagnoses except malignancy,Other,4
+Cardiac arrest and shock,Cardiology,4
+Connective tissue disorders,Other,4
+Lymphatic & other malignancies & neoplasms of uncertain behavior,Cancer,4
+Other circulatory system diagnoses,Circulatory,4
+Other musculoskeletal system & connective tissue diagnoses,Other,4
+Other digestive system & abdominal procedures,Other,4
+"Respiratory signs, symptoms & minor diagnoses",Respiratory,3
+"Osteomyelitis, septic arthritis & other musculoskeletal infections",Other,3
+Skin ulcers,Other,3
+Other antepartum diagnoses,Other,3
+Transient ischemia,Circulatory,3
+"Peripheral, cranial & autonomic nerve disorders",Neurological,3
+Urinary stones & acquired upper urinary tract obstruction,Other,3
+Abdominal pain,Other,3
+Fracture of pelvis or dislocation of hip,Other,3
+"Neonate, transferred < 5 days old, born here",Other,3
+Acute leukemia,Cancer,3
+"Fractures & dislocations except femur, pelvis & back",Other,3
+Amputation of lower limb except toes,Other,3
+Fracture of femur,Other,3
+Fever,Other,3
+Major chest & respiratory trauma,Trauma,3
+Angina pectoris & coronary atherosclerosis,Cardiology,3
+Appendectomy,Other,3
+Digestive malignancy,Cancer,3
+Coagulation & platelet disorders,Circulatory,3
+Schizophrenia,Metal Health,2
+"Other skin, subcutaneous tissue & related procedures",Other,2
+Degenerative nervous system disorders exc mult sclerosis,Neurological,2
+Asthma,Respiratory,2
+Chest pain,Other,2
+Bipolar disorders,Metal Health,2
+Other respiratory & chest procedures,Respiratory,2
+Anal procedures,Other,2
+Urethral & transurethral procedures,Other,2
+Uterine & adnexa procedures for non-malignancy except leiomyoma,Other,2
+Vaginal delivery w sterilization &/or D&C,Other,2
+"Other skin, subcutaneous tissue & breast disorders",Other,2
+Nervous system malignancy,Cancer,2
+"Other ear, nose, mouth,throat & cranial/facial diagnoses",Other,2
+Opioid abuse & dependence,Drug Issue,2
+"Malfunction, reaction & complication of GI device or procedure",Other,2
+Kidney & urinary tract procedures for nonmalignancy,Other,2
+Other esophageal disorders,Other,2
+Major bladder procedures,Other,2
+Major biliary tract procedures,Other,2
+Major O.R. procedures for lymphatic/hematopoietic/other neoplasms,Other,1
+"Lymphoma, myeloma & non-acute leukemia",Cancer,1
+Other disorders of nervous system,Neurological,1
+Cardiac structural & valvular disorders,Cardiology,1
+Sickle cell anemia crisis,Circulatory,1
+Bronchiolitis & RSV pneumonia,Infection,1
+"Other procedures for endocrine, nutritional & metabolic disorders",Other,1
+Cocaine abuse & dependence,Drug Issue,1
+Other circulatory system procedures,Circulatory,1
+"Other back & neck disorders, fractures & injuries",Other,1
+Transurethral prostatectomy,Other,1
+Major respiratory & chest procedures,Respiratory,1
+Major skin disorders,Other,1
+Acute & subacute endocarditis,Cardiology,1
+"Tendon, muscle & other soft tissue procedures",Other,1
+"Concussion, closed skull Fx nos,uncomplicated intracranial injury, coma < 1 hr or no coma",Trauma,1
+Inborn errors of metabolism,Other,1
+Percutaneous coronary intervention w/o AMI,Cardiology,1
+"Hernia procedures except inguinal, femoral & umbilical",Other,1
+Infections of upper respiratory tract,Infection,1
+"Other kidney, urinary tract & related procedures",Other,1
+Head trauma w coma >1 hr or hemorrhage,Trauma,1
+"Other stomach, esophageal & duodenal procedures",Other,1
+Interstitial & alveolar lung diseases,Respiratory,1
+Nephritis & nephrosis,Other,1
+Other infectious & parasitic diseases,Infection,1
+Depression except major depressive disorder,Metal Health,1
+Intracranial hemorrhage,Cancer,1
+Peritoneal adhesiolysis,Other,1
+Eating disorders,Metal Health,1
+"Ear, nose, mouth, throat, cranial/facial malignancies",Other,1
+"Post-op, post-trauma, other device infections w O.R. procedure",Infection,1
+"Drug & alcohol abuse or dependence, left against medical advice",Drug Issue,1
+Dilation & curettage for non-obstetric diagnoses,Other,1
+Viral meningitis,Infection,1

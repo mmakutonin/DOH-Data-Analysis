@@ -1,0 +1,157 @@
+apr_drg_description,diagnosis,count
+Septicemia & disseminated infections,Infection,262
+Chronic obstructive pulmonary disease,Respiratory,189
+Heart failure,Cardiology,128
+Other pneumonia,Respiratory,125
+RENAL FAILURE,Other,114
+Acute myocardial infarction,Cardiology,60
+Respiratory Failure,Respiratory,52
+Infectious & parasitic diseases including HIV w O.R. procedure,Infection,51
+Cardiac arrhythmia & conduction disorders,Other,40
+Hypovolemia & related electrolyte disorders,Other,26
+Major respiratory infections & inflammations,Infection,26
+Diabetes,Diabetes,26
+Other & unspecified gastrointestinal hemorrhage,Other,25
+Cellulitis & other skin infections,Other,24
+Intestinal obstruction,Other,24
+Poisoning of medicinal agents,Other,24
+Kidney & urinary tract infections,Infection,22
+Electrolyte disorders except hypovolemia related,Other,18
+Major gastrointestinal & peritoneal infections,Infection,18
+Pulmonary embolism,Respiratory,18
+"Other gastroenteritis, nausa & vomiting",Infection,17
+Nontraumatic stupor & coma,Neurological,16
+Major small & large bowel procedures,Other,16
+Peripheral & other vascular disorders,Circulatory,16
+Cardiac catheterization for coronary artery disease,Cardiology,15
+Peptic ulcer & gastritis,Other,15
+Other digestive system diagnoses,Other,14
+Vaginal delivery,Other,13
+Laparoscopic cholecystectomy,Other,12
+Percutaneous coronary intervention w AMI,Cardiology,12
+CVA & precerebral occlusion w infarct,Circulatory,12
+Disorders of pancreas except malignancy,Other,11
+"Other respiratory diagnoses except signs, symptoms & minor diagnoses",Respiratory,11
+"Malfunction, reaction, complic of genitourinary device or proc",Other,10
+Respiratory system diagnosis w ventilator support 96+ hours,Respiratory,10
+Gastrointestinal vascular insufficiency,Circulatory,9
+Disorders of gallbladder & biliary tract,Other,9
+Other endocrine disorders,Other,9
+Other anemia & disorders of blood & blood-forming organs,Circulatory,8
+Respiratory malignancy,Cancer,8
+"Other kidney & urinary tract diagnoses, signs & symptoms",Other,8
+Toxic effects of non-medicinal substances,Other,7
+Digestive malignancy,Cancer,7
+Alcohol abuse & dependence,Drug Issue,7
+"Other hepatobiliary, pancreas & abdominal procedures",Other,6
+OTHER VASCULAR PROCEDURES,Other,6
+Other musculoskeletal system & connective tissue diagnoses,Other,6
+Malignancy of hepatobiliary system & pancreas,Cancer,6
+Diverticulitis & diverticulosis,Infection,6
+Foot & toe procedures,Other,6
+Major chest & respiratory trauma,Trauma,5
+"Malfunction, reaction & complication of GI device or procedure",Other,5
+Nonextensive procedure unrelated to principal diagnosis,Other,5
+Other esophageal disorders,Other,5
+Cesarean delivery,Other,5
+"Post-operative, post-traumatic, other device infections",Infection,5
+Hip joint replacement,Other,5
+"Other back & neck disorders, fractures & injuries",Other,5
+Major hematologic/immunologic diag exc sickle cell crisis & coagul,Circulatory,5
+"Perm cardiac pacemaker implant w/o AMI, heart failure or shock",Cardiology,5
+Inflammatory bowel disease,Other,5
+Other circulatory system diagnoses,Circulatory,5
+Hepatic coma & other major acute liver disorders,Other,4
+Seizure,Neurological,4
+"Neonate birthwt >2499g, normal newborn or neonate w other problem",Other,4
+"Major stomach, esophageal & duodenal procedures",Other,4
+Syncope & collapse,Cardiology,4
+Degenerative nervous system disorders exc mult sclerosis,Neurological,4
+Major esophageal disorders,Other,4
+Major depressive disorders & other/unspecified psychoses,Metal Health,4
+Hip and femur fracture repair,Other,4
+Major abdominal vascular procedures,Circulatory,4
+Cardiac arrest and shock,Cardiology,4
+Urethral & transurethral procedures,Other,4
+Other infectious & parasitic diseases,Infection,4
+Skin ulcers,Other,4
+Other disorders of the liver,Other,3
+Alcoholic liver disease,Drug Issue,3
+"Other injury, poisoning & toxic effect diagnoses",Other,3
+"Drug & alcohol abuse or dependence, left against medical advice",Drug Issue,3
+"Osteomyelitis, septic arthritis & other musculoskeletal infections",Other,3
+"Other skin, subcutaneous tissue & related procedures",Other,3
+"Respiratory signs, symptoms & minor diagnoses",Respiratory,3
+Tracheostomy w MV 96+ hours w/o extensive procedure,Other,3
+Knee joint replacement,Other,3
+Male reproductive system diagnoses except malignancy,Other,3
+Kidney & urinary tract procedures for nonmalignancy,Other,3
+Kidney & urinary tract malignancy,Cancer,3
+Interstitial & alveolar lung diseases,Respiratory,3
+Moderately extensive procedure unrelated to principal diagnosis,Other,3
+"Shoulder, upper arm & forearm procedures except joint replacement",Other,2
+Urinary stones & acquired upper urinary tract obstruction,Other,2
+"Post-op, post-trauma, other device infections w O.R. procedure",Infection,2
+Uterine & adnexa procedures for leiomyoma,Other,2
+Other respiratory & chest procedures,Respiratory,2
+Non-bacterial infections of nervous system exc viral meningitis,Infection,2
+Tracheostomy w MV 96+ hours w extensive procedure or ECMO,Other,2
+"Other skin, subcutaneous tissue & breast disorders",Other,2
+"Contusion, open wound & other trauma to skin & subcutaneous tissue",Other,2
+Other small & large bowel procedures,Other,2
+"Inguinal, femoral & umbilical hernia procedures",Other,2
+Percutaneous coronary intervention w/o AMI,Cardiology,2
+Asthma,Respiratory,2
+"Signs, symptoms & other factors influencing health status",Other,2
+"Lymphoma, myeloma & non-acute leukemia",Cancer,2
+Major bladder procedures,Other,2
+Transurethral prostatectomy,Other,2
+Schizophrenia,Metal Health,2
+"Neonate, transferred < 5 days old, born here",Other,2
+Opioid abuse & dependence,Drug Issue,2
+Fracture of pelvis or dislocation of hip,Other,2
+Cardiac structural & valvular disorders,Cardiology,2
+"Malfunction,reaction,complication of cardiac/vasc device or procedure",Cardiology,2
+Cholecystectomy except laparoscopic,Other,2
+Other complications of treatment,Other,2
+Other disorders of nervous system,Neurological,2
+Coagulation & platelet disorders,Circulatory,2
+Amputation of lower limb except toes,Other,2
+"Peripheral, cranial & autonomic nerve disorders",Neurological,2
+Uterine & adnexa procedures for non-malignancy except leiomyoma,Other,1
+Angina pectoris & coronary atherosclerosis,Cardiology,1
+Renal dialysis access device procedure only,Other,1
+Peritoneal adhesiolysis,Other,1
+Transient ischemia,Circulatory,1
+"Permanent cardiac pacemaker implant w AMI, heart failure or shock",Cardiology,1
+Allergic reactions,Other,1
+Other O.R. procedures for lymphatic/hematopoietic/other neoplasms,Other,1
+Behavioral disorders,Metal Health,1
+Kidney & urinary tract procedures for malignancy,Cancer,1
+"Ear, nose, mouth, throat, cranial/facial malignancies",Other,1
+Extensive 3rd degree or full thickness burns w/o skin graft,Other,1
+Extensive abdominal/thoracic procedures for mult significant trauma,Trauma,1
+Extensive procedure unrelated to principal diagnosis,Other,1
+Fever,Other,1
+Fracture of femur,Other,1
+Head trauma w coma >1 hr or hemorrhage,Trauma,1
+Dental & oral diseases & injuries,Other,1
+Hypertension,Circulatory,1
+Infections of upper respiratory tract,Infection,1
+Cystic fibrosis - pulmonary disease,Respiratory,1
+Connective tissue disorders,Other,1
+Major biliary tract procedures,Other,1
+"Other stomach, esophageal & duodenal procedures",Other,1
+Adjustment disorders & neuroses except depressive diagnoses,Metal Health,1
+Nephritis & nephrosis,Other,1
+Nervous system malignancy,Cancer,1
+Cardiomyopathy,Cardiology,1
+Organic mental health disturbances,Other,1
+Other cardiothoracic & thoracic vascular procedures,Cardiology,1
+Other circulatory system procedures,Circulatory,1
+Cardiac catheterization for other non-coronary conditions,Cardiology,1
+"Other ear, nose, mouth,throat & cranial/facial diagnoses",Other,1
+Other female reproductive system & related procedures,Other,1
+"Other kidney, urinary tract & related procedures",Other,1
+Other musculoskeletal system & connective tissue procedures,Other,1
+"Malnutrition, failure to thrive & other nutritional disorders",Other,1
